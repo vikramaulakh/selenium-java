@@ -1,1 +1,1 @@
-# selenium-java
+This is a test application to test chrome gmail login.
